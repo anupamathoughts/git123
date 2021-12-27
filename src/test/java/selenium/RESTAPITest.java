@@ -16,6 +16,9 @@ public class RESTAPITest {
 	public void D()
 	{
 		System.out.println("Selenium D");
+		System.out.println("Selenium E");
+		System.out.println("Selenium F");
+		System.out.println("Selenium G");
 	}
 
 }

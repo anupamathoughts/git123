@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void A()
 	{
 		System.out.println("Selenium A");
+		System.out.println("Selenium H");
 	}
 	
 	@Test
