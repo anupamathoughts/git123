@@ -8,6 +8,8 @@ public class RESTAPITest {
 	public void C()
 	{
 		System.out.println("Selenium C");
+		System.out.println("Selenium C1");
+		System.out.println("Selenium C2");
 	}
 	
 	@Test
