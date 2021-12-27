@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49" started-at="2021-12-23T23:00:03 IST" finished-at="2021-12-23T23:00:03 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49" started-at="2021-12-23T23:00:03 IST" finished-at="2021-12-23T23:00:03 IST">
+      <class name="selenium.AppiumTest">
+        <test-method status="PASS" signature="E()[pri:0, instance:selenium.AppiumTest@76b0bfab]" name="E" duration-ms="0" started-at="2021-12-23T23:00:03 IST" finished-at="2021-12-23T23:00:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E -->
+        <test-method status="PASS" signature="F()[pri:0, instance:selenium.AppiumTest@76b0bfab]" name="F" duration-ms="3" started-at="2021-12-23T23:00:03 IST" finished-at="2021-12-23T23:00:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- F -->
+      </class> <!-- selenium.AppiumTest -->
+      <class name="selenium.RESTAPITest">
+        <test-method status="PASS" signature="C()[pri:0, instance:selenium.RESTAPITest@305fd85d]" name="C" duration-ms="5" started-at="2021-12-23T23:00:03 IST" finished-at="2021-12-23T23:00:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C -->
+        <test-method status="PASS" signature="D()[pri:0, instance:selenium.RESTAPITest@305fd85d]" name="D" duration-ms="0" started-at="2021-12-23T23:00:03 IST" finished-at="2021-12-23T23:00:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D -->
+      </class> <!-- selenium.RESTAPITest -->
+      <class name="selenium.SeleniumTest">
+        <test-method status="PASS" signature="A()[pri:0, instance:selenium.SeleniumTest@7a765367]" name="A" duration-ms="1" started-at="2021-12-23T23:00:03 IST" finished-at="2021-12-23T23:00:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="B()[pri:0, instance:selenium.SeleniumTest@7a765367]" name="B" duration-ms="0" started-at="2021-12-23T23:00:03 IST" finished-at="2021-12-23T23:00:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+      </class> <!-- selenium.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
