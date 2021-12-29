@@ -16,5 +16,10 @@ public class SeleniumTest {
 	{
 		System.out.println("Selenium B");
 	}
+	
+	public void Z()
+	{
+		System.out.println("Selenium Z");
+	}
 
 }
