@@ -8,6 +8,8 @@ public class AppiumTest {
 	public void E()
 	{
 		System.out.println("Selenium E");
+		System.out.println("Selenium F");
+		System.out.println("Selenium G");
 	}
 	
 	@Test
